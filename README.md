@@ -7,3 +7,7 @@ wechat 微信 restful api
 go get github.com/baboonwu/wechat
 ```
 
+##test
+```
+go test
+```
